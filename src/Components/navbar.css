@@ -1,0 +1,13 @@
+.top-bar{
+    display: flex;
+    flex-direction: row;
+    max-height: 55px;
+    background-color: #F55A5A;
+    max-width: 1300px;
+}
+
+.top-heading{
+    padding-left: 40%;
+    color: #ffff;
+    max-width: 200px;
+}
